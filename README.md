@@ -3,8 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>A2 – Rozkład jazdy</title>
-
 <style>
 :root{
 --bg:#f4f6f8;--text:#222;--card:#fff;
